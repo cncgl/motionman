@@ -1,0 +1,11 @@
+[package]
+name = "motionman"
+version = "0.1.0"
+authors = ["cncgl <concigel@gmail.com>"]
+
+[dependencies]
+nickel = "*"
+mustache = "*"
+hyper = "0.9.1"
+rustc-serialize = "*"
+
